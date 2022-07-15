@@ -25,10 +25,12 @@ export default class App extends Component {
           </a>
         </div>
       </div>
+   </div>
+  </div>
+   
+     <h1>Made with</h1>  
 
-    <footer class="footer">
-  Made with <a href="https://netlify.com"><img src="https://res.cloudinary.com/dzkoxrsdj/image/upload/v1646714899/netliheart_ezlkim.svg" alt="Netlify Logo" /></a> for you!
-   </footer>
+
 
     )
   }
