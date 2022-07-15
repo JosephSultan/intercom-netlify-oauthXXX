@@ -22,16 +22,9 @@ export default class App extends Component {
 
           <a href="https://sladive.tk" className='github-link'>
             Visit our Homepage
-          </a>
+              </a>
         </div>
       </div>
-   </div>
-  </div>
-   
-     <h1>Made with</h1>  
-
-
-
     )
   }
-}
+} 
