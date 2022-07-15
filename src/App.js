@@ -8,7 +8,7 @@ export default class App extends Component {
     return (
       <div className='app'>
         <div className='app-contents'>
-          <h1>Intercom + Netlify Functions</h1>
+          <h1>Intercom + SLA Dive</h1>
           <p>Login with Intercom OAuth</p>
           <div className='button-wrapper'>
             <a href="/.netlify/functions/auth">
@@ -20,8 +20,8 @@ export default class App extends Component {
             </a>
           </div>
 
-          <a href="https://github.com/DavidWells/intercom-netlify-oauth" className='github-link'>
-            View the source on Github
+          <a href="https://sladive.tk" className='github-link'>
+            Visit our Homepage
           </a>
         </div>
       </div>
