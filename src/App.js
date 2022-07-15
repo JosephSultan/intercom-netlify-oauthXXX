@@ -8,7 +8,7 @@ export default class App extends Component {
     return (
       <div className='app'>
         <div className='app-contents'>
-          <h1>Intercom + SLA Dive</h1>
+          <h1>SLA Dive</h1>
           <p>Login with Intercom OAuth</p>
           <div className='button-wrapper'>
             <a href="/.netlify/functions/auth">
